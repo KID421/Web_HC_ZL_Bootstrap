@@ -32,13 +32,13 @@
         height: 80vh;
 
         .carousel-caption {
-            bottom: 100vh * 0.2;
+            bottom: 150px;
         }
     }
 }
 
 // >= 1200
-@media screen and (min-width: 120px) {
+@media screen and (min-width: 1200px) {
     .carousel-inner {
         .carousel-caption {
             bottom: 600px;
